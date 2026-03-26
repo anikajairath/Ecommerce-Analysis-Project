@@ -44,5 +44,3 @@ This analysis helps businesses identify high-performing products, optimize prici
 # Dashboard
 
 Interactive Power BI dashboard showcasing KPIs, revenue trends, category performance, and regional analysis.
-
-Interactive Power BI dashboard showcasing KPIs, revenue trends, category performance, and regional analysis.
