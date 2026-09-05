@@ -1,6 +1,6 @@
 ⭐ Key Project for Data Analyst Portfolio
 
-# E-Commerce Sales Performance Analysis
+# Ecommerce-Sales-Performance-Analysis
 
 # Overview
 
